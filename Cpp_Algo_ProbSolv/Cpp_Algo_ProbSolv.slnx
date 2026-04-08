@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_Algo/01_Algo.vcxproj" />
+  <Project Path="02_FindMaxNumberInArray/02_FindMaxNumberInArray.vcxproj" />
+  <Project Path="03_IsArraySorted/03_IsArraySorted.vcxproj" />
+</Solution>
