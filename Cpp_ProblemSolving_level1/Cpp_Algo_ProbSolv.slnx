@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_Algo/01_Algo.vcxproj" Id="637d3a4d-b6e2-44ca-abb0-ee1a82133f5e" />
+  <Project Path="02_FindMaxNumberInArray/02_FindMaxNumberInArray.vcxproj" Id="b5a9aa93-84db-4686-9a04-b223620cb70c" />
+  <Project Path="03_IsArraySorted/03_IsArraySorted.vcxproj" Id="95a3ffb1-643a-455e-a16f-5d8d9c4b12f5" />
+  <Project Path="04_Reverse an Array/04_Reverse an Array.vcxproj" Id="f1c10a41-5227-44f4-8f74-f348563f00a3" />
+  <Project Path="05_ Find Number in an Array/05_ Find Number in an Array.vcxproj" Id="5f9d5666-d123-44fa-b74e-6e3cb1286118" />
+  <Project Path="06_Count Element Occurrences/06_Count Element Occurrences.vcxproj" Id="3d85b3fa-03a9-4c6d-b849-c8d136b2473a" />
+  <Project Path="07_Find Two Numbers that Sum to a Target/07_Find Two Numbers that Sum to a Target.vcxproj" Id="e390bff9-ea85-4b8d-a43a-4f2bad0cd48e" />
+</Solution>
