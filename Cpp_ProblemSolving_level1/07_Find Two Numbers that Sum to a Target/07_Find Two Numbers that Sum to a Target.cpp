@@ -1,5 +1,6 @@
 #include <iostream>
 #include <tuple>
+#include <unordered_map>
 //[Problem]
 /*
     Description:
@@ -21,22 +22,28 @@
 */
 //[Solution ]
 /*
-  
+	1) Accept the array of integers and the target sum.
+	2) we should use Only one loop to find the two numbers that add up to the target sum.
+	3) We can use a hash map to store the numbers we have seen so far and their indices. For each number in the array,
+        we check if the complement (target - current number) exists in the hash map. If it does, we have found our two numbers and can return their indices.
 */
 
 
 std::tuple<int,int> TwoSum(int arr[], int size, int target)
 {
-	int index1 = -1, index2 = -1;
+
 	
-	int n1 = 0, n2 = 0;
+	std::unordered_map<int, int> numMap; // to store numbers and their indices
     for (int i = 0; i < size; i++)
     {
+		if(arr[i] > target) continue; // skip numbers greater than the target
         
-        
+		numMap[arr[i]] = i; 
+
+		if (numMap.contains(target - arr[i]))  return { numMap[target - arr[i]], i }; // return the indices of the two numbers
     }
        
-    return {index1, index2};
+    return {-1, -1};
 }
 int main()
 {

@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\",
+  "WorkspaceRootPath": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D85B3FA-03A9-4C6D-B849-C8D136B2473A}|06_Count Element Occurrences\\06_Count Element Occurrences.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D85B3FA-03A9-4C6D-B849-C8D136B2473A}|06_Count Element Occurrences\\06_Count Element Occurrences.vcxproj|solutionrelative:06_Count Element Occurrences\\06_Count Element Occurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E390BFF9-EA85-4B8D-A43A-4F2BAD0CD48E}|07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E390BFF9-EA85-4B8D-A43A-4F2BAD0CD48E}|07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E390BFF9-EA85-4B8D-A43A-4F2BAD0CD48E}|07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.vcxproj|solutionrelative:07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9D5666-D123-44FA-B74E-6E3CB1286118}|05_ Find Number in an Array\\05_ Find Number in an Array.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D85B3FA-03A9-4C6D-B849-C8D136B2473A}|06_Count Element Occurrences\\06_Count Element Occurrences.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D85B3FA-03A9-4C6D-B849-C8D136B2473A}|06_Count Element Occurrences\\06_Count Element Occurrences.vcxproj|solutionrelative:06_Count Element Occurrences\\06_Count Element Occurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9D5666-D123-44FA-B74E-6E3CB1286118}|05_ Find Number in an Array\\05_ Find Number in an Array.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F9D5666-D123-44FA-B74E-6E3CB1286118}|05_ Find Number in an Array\\05_ Find Number in an Array.vcxproj|solutionrelative:05_ Find Number in an Array\\05_ Find Number in an Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C10A41-5227-44F4-8F74-F348563F00A3}|04_Reverse an Array\\04_Reverse an Array.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\04_Reverse an Array\\04_Reverse an Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F1C10A41-5227-44F4-8F74-F348563F00A3}|04_Reverse an Array\\04_Reverse an Array.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\04_Reverse an Array\\04_Reverse an Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1C10A41-5227-44F4-8F74-F348563F00A3}|04_Reverse an Array\\04_Reverse an Array.vcxproj|solutionrelative:04_Reverse an Array\\04_Reverse an Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A3FFB1-643A-455E-A16F-5D8D9C4B12F5}|03_IsArraySorted\\03_IsArraySorted.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\03_IsArraySorted\\03_IsArraySorted.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{95A3FFB1-643A-455E-A16F-5D8D9C4B12F5}|03_IsArraySorted\\03_IsArraySorted.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\03_IsArraySorted\\03_IsArraySorted.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{95A3FFB1-643A-455E-A16F-5D8D9C4B12F5}|03_IsArraySorted\\03_IsArraySorted.vcxproj|solutionrelative:03_IsArraySorted\\03_IsArraySorted.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5A9AA93-84DB-4686-9A04-B223620CB70C}|02_FindMaxNumberInArray\\02_FindMaxNumberInArray.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B5A9AA93-84DB-4686-9A04-B223620CB70C}|02_FindMaxNumberInArray\\02_FindMaxNumberInArray.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5A9AA93-84DB-4686-9A04-B223620CB70C}|02_FindMaxNumberInArray\\02_FindMaxNumberInArray.vcxproj|solutionrelative:02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637D3A4D-B6E2-44CA-ABB0-EE1A82133F5E}|01_Algo\\01_Algo.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\01_Algo\\01_Algo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{637D3A4D-B6E2-44CA-ABB0-EE1A82133F5E}|01_Algo\\01_Algo.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\01_Algo\\01_Algo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{637D3A4D-B6E2-44CA-ABB0-EE1A82133F5E}|01_Algo\\01_Algo.vcxproj|solutionrelative:01_Algo\\01_Algo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,26 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "07_Find Two Numbers that Sum to a Target.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
               "RelativeDocumentMoniker": "07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
               "RelativeToolTip": "07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-10T14:38:09.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "06_Count Element Occurrences.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
               "RelativeDocumentMoniker": "06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
               "RelativeToolTip": "06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-10T13:45:47.115Z",
               "EditorCaption": ""
@@ -74,22 +74,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "05_ Find Number in an Array.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
               "RelativeDocumentMoniker": "05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
               "RelativeToolTip": "05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
               "ViewState": "AgIAABoAAAAAAAAAAAAYwD8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T15:15:54.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T15:15:54.896Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "04_Reverse an Array.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\04_Reverse an Array\\04_Reverse an Array.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\04_Reverse an Array\\04_Reverse an Array.cpp",
               "RelativeDocumentMoniker": "04_Reverse an Array\\04_Reverse an Array.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\04_Reverse an Array\\04_Reverse an Array.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\04_Reverse an Array\\04_Reverse an Array.cpp",
               "RelativeToolTip": "04_Reverse an Array\\04_Reverse an Array.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -99,9 +98,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "03_IsArraySorted.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\03_IsArraySorted\\03_IsArraySorted.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\03_IsArraySorted\\03_IsArraySorted.cpp",
               "RelativeDocumentMoniker": "03_IsArraySorted\\03_IsArraySorted.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\03_IsArraySorted\\03_IsArraySorted.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\03_IsArraySorted\\03_IsArraySorted.cpp",
               "RelativeToolTip": "03_IsArraySorted\\03_IsArraySorted.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -111,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "02_FindMaxNumberInArray.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
               "RelativeDocumentMoniker": "02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
               "RelativeToolTip": "02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -123,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "01_Algo.cpp",
-              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\01_Algo\\01_Algo.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\01_Algo\\01_Algo.cpp",
               "RelativeDocumentMoniker": "01_Algo\\01_Algo.cpp",
-              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_Algo_ProbSolv\\01_Algo\\01_Algo.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\01_Algo\\01_Algo.cpp",
               "RelativeToolTip": "01_Algo\\01_Algo.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
