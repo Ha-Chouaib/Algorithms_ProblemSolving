@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{058E7BD9-E785-450B-B9C4-C9FBE7A00DEF}|09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{058E7BD9-E785-450B-B9C4-C9FBE7A00DEF}|09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.vcxproj|solutionrelative:09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22807B6D-4C3E-4D84-9753-0BEFF1654DDD}|08_FindTheMissingNumber\\08_FindTheMissingNumber.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\08_FindTheMissingNumber\\08_FindTheMissingNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22807B6D-4C3E-4D84-9753-0BEFF1654DDD}|08_FindTheMissingNumber\\08_FindTheMissingNumber.vcxproj|solutionrelative:08_FindTheMissingNumber\\08_FindTheMissingNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E390BFF9-EA85-4B8D-A43A-4F2BAD0CD48E}|07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.vcxproj|C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E390BFF9-EA85-4B8D-A43A-4F2BAD0CD48E}|07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.vcxproj|solutionrelative:07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "09_CheckDuplicatesInArray.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.cpp",
+              "RelativeDocumentMoniker": "09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.cpp",
+              "RelativeToolTip": "09_CheckDuplicatesInArray\\09_CheckDuplicatesInArray.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T16:12:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "08_FindTheMissingNumber.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\08_FindTheMissingNumber\\08_FindTheMissingNumber.cpp",
+              "RelativeDocumentMoniker": "08_FindTheMissingNumber\\08_FindTheMissingNumber.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\08_FindTheMissingNumber\\08_FindTheMissingNumber.cpp",
+              "RelativeToolTip": "08_FindTheMissingNumber\\08_FindTheMissingNumber.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T14:27:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "07_Find Two Numbers that Sum to a Target.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
               "RelativeDocumentMoniker": "07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
               "ToolTip": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
               "RelativeToolTip": "07_Find Two Numbers that Sum to a Target\\07_Find Two Numbers that Sum to a Target.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwBcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-10T14:38:09.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "06_Count Element Occurrences.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
               "RelativeDocumentMoniker": "06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "06_Count Element Occurrences\\06_Count Element Occurrences.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-10T13:45:47.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T13:45:47.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "05_ Find Number in an Array.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
               "RelativeDocumentMoniker": "05_ Find Number in an Array\\05_ Find Number in an Array.cpp",
@@ -84,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "04_Reverse an Array.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\04_Reverse an Array\\04_Reverse an Array.cpp",
               "RelativeDocumentMoniker": "04_Reverse an Array\\04_Reverse an Array.cpp",
@@ -96,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "03_IsArraySorted.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\03_IsArraySorted\\03_IsArraySorted.cpp",
               "RelativeDocumentMoniker": "03_IsArraySorted\\03_IsArraySorted.cpp",
@@ -108,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "02_FindMaxNumberInArray.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
               "RelativeDocumentMoniker": "02_FindMaxNumberInArray\\02_FindMaxNumberInArray.cpp",
@@ -120,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "01_Algo.cpp",
               "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\Cpp_ProblemSolving_level1\\01_Algo\\01_Algo.cpp",
               "RelativeDocumentMoniker": "01_Algo\\01_Algo.cpp",

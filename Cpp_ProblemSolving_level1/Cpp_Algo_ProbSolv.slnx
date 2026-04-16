@@ -10,4 +10,6 @@
   <Project Path="05_ Find Number in an Array/05_ Find Number in an Array.vcxproj" Id="5f9d5666-d123-44fa-b74e-6e3cb1286118" />
   <Project Path="06_Count Element Occurrences/06_Count Element Occurrences.vcxproj" Id="3d85b3fa-03a9-4c6d-b849-c8d136b2473a" />
   <Project Path="07_Find Two Numbers that Sum to a Target/07_Find Two Numbers that Sum to a Target.vcxproj" Id="e390bff9-ea85-4b8d-a43a-4f2bad0cd48e" />
+  <Project Path="08_FindTheMissingNumber/08_FindTheMissingNumber.vcxproj" Id="22807b6d-4c3e-4d84-9753-0beff1654ddd" />
+  <Project Path="09_CheckDuplicatesInArray/09_CheckDuplicatesInArray.vcxproj" Id="058e7bd9-e785-450b-b9c4-c9fbe7a00def" />
 </Solution>

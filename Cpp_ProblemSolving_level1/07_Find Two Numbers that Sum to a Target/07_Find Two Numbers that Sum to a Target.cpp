@@ -36,11 +36,8 @@ std::tuple<int,int> TwoSum(int arr[], int size, int target)
 	std::unordered_map<int, int> numMap; // to store numbers and their indices
     for (int i = 0; i < size; i++)
     {
-		if(arr[i] > target) continue; // skip numbers greater than the target
-        
-		numMap[arr[i]] = i; 
-
-		if (numMap.contains(target - arr[i]))  return { numMap[target - arr[i]], i }; // return the indices of the two numbers
+		if (numMap.contains(target - arr[i]))  return { numMap[target - arr[i]], i }; 
+        numMap[arr[i]] = i; 
     }
        
     return {-1, -1};
